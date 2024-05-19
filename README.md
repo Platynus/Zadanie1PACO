@@ -1,4 +1,4 @@
-![image](https://github.com/Platynus/Zadanie1PACO/assets/56522713/f94efc54-b21d-4255-9f33-df7ad9ac09d0)#Sprawozdanie z zadania1
+#Sprawozdanie z zadania1
 
 ###Wykonał Patryk Pawelec s97696
 
